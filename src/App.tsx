@@ -38,6 +38,26 @@ function App() {
         ></Route>
       </Routes>
       <div className="app__help_button" onClick={handleHelpClick}>?</div>
+       
+      {/* Submission BY SHIREESHA TH */}
+
+      <p style={{ color: 'white' }}>Hello from Shireesha</p>
+
+      {/* Daily reset Summay Box */}
+
+      <div style={{
+        padding: '1rem',
+        backgroundColor: '#f0f8ff',
+        borderRadius: '12px',
+        marginTop: '10px',
+        color: '#333',
+        fontSize: '14px'
+      }}>
+        <h3 style={{ marginBottom: '0.5rem' }}>🌟 Daily Reset Summary</h3>
+        <p>
+          Take a moment to reflect. You opened <strong>{window.location.hostname}</strong> and spent a productive day!
+        </p>
+      </div>
     </div>
   );
 }
