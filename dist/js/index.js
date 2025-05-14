@@ -162,29 +162,6 @@ ___CSS_LOADER_EXPORT___.push([module.id, `.daily_summary{width:328px;margin-bott
 
 /***/ }),
 
-/***/ 6108:
-/***/ ((module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   c: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5500);
-/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2312);
-/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
-// Imports
-
-
-var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
-// Module
-___CSS_LOADER_EXPORT___.push([module.id, `.dropdown_with_confirm{position:relative;background:#f4f4f4;border-radius:38px;min-width:100px;display:flex;align-items:center}.dropdown_with_confirm__container{display:flex;gap:5px}.dropdown_with_confirm#active{border-bottom:none;border-radius:28px 28px 0 0}.dropdown_with_confirm#active .dropdown_with_confirm__active_option{cursor:pointer;padding:7px 0;padding-left:14px;display:flex;align-items:center;justify-content:flex-start;gap:.25rem;width:100%;height:100%}.dropdown_with_confirm__active_option{cursor:pointer;display:flex;align-items:center;justify-content:center;gap:.25rem;width:100%;height:100%}.dropdown_with_confirm__options{position:absolute;top:100%;display:none;z-index:999999;width:100%;background:#f4f4f4;border-top:0;border-radius:0 0 28px 28px}.dropdown_with_confirm__options#show{display:flex;flex-direction:column;padding-bottom:12px}.dropdown_with_confirm__options__option{padding:7px 0;padding-left:14px;display:flex;align-items:center;cursor:pointer}.dropdown_with_confirm__options__option:hover{background:#cbdffe}.dropdown_with_confirm__options__option:last-of-type{border-radius:0 0 8px 8px}.dropdown_with_confirm__confirm{height:35px;aspect-ratio:1;padding:11px;background:#000;border-radius:100%;cursor:pointer;display:flex;align-items:center;justify-content:center;border:2px solid rgba(0,0,0,0)}.dropdown_with_confirm__confirm__icon{color:#fff}.dropdown_with_confirm__cancel{height:35px;aspect-ratio:1;padding:11px;border:2px solid #f0f0f0;border-radius:100%;cursor:pointer;display:flex;align-items:center;justify-content:center}`, ""]);
-// Exports
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
-
-
-/***/ }),
-
 /***/ 5064:
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
@@ -202,6 +179,29 @@ ___CSS_LOADER_EXPORT___.push([module.id, `.dropdown_with_confirm{position:relati
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
 // Module
 ___CSS_LOADER_EXPORT___.push([module.id, `.dropdown{position:relative;background:#f4f4f4;border-radius:38px;min-width:100px;display:flex;align-items:center}.dropdown#active{border-bottom:none;border-radius:28px 28px 0 0}.dropdown#active .dropdown__active_option{cursor:pointer;padding-left:14px;display:flex;align-items:center;justify-content:flex-start;gap:.25rem;width:100%;height:100%}.dropdown__active_option{cursor:pointer;display:flex;align-items:center;justify-content:center;gap:.25rem;width:100%;height:100%}.dropdown__options{position:absolute;top:100%;display:none;z-index:999999;width:100%;background:#f4f4f4;border:2px solid #f0f0f0;border-top:0;border-radius:0 0 28px 28px}.dropdown__options#show{display:flex;flex-direction:column;padding-bottom:12px}.dropdown__options__option{padding:7px 0;padding-left:14px;display:flex;align-items:center;cursor:pointer}.dropdown__options__option:hover{background:#cbdffe}.dropdown__options__option:last-of-type{border-radius:0 0 8px 8px}`, ""]);
+// Exports
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ 6108:
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   c: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5500);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2312);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
+// Imports
+
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
+// Module
+___CSS_LOADER_EXPORT___.push([module.id, `.dropdown_with_confirm{position:relative;background:#f4f4f4;border-radius:38px;min-width:100px;display:flex;align-items:center}.dropdown_with_confirm__container{display:flex;gap:5px}.dropdown_with_confirm#active{border-bottom:none;border-radius:28px 28px 0 0}.dropdown_with_confirm#active .dropdown_with_confirm__active_option{cursor:pointer;padding:7px 0;padding-left:14px;display:flex;align-items:center;justify-content:flex-start;gap:.25rem;width:100%;height:100%}.dropdown_with_confirm__active_option{cursor:pointer;display:flex;align-items:center;justify-content:center;gap:.25rem;width:100%;height:100%}.dropdown_with_confirm__options{position:absolute;top:100%;display:none;z-index:999999;width:100%;background:#f4f4f4;border-top:0;border-radius:0 0 28px 28px}.dropdown_with_confirm__options#show{display:flex;flex-direction:column;padding-bottom:12px}.dropdown_with_confirm__options__option{padding:7px 0;padding-left:14px;display:flex;align-items:center;cursor:pointer}.dropdown_with_confirm__options__option:hover{background:#cbdffe}.dropdown_with_confirm__options__option:last-of-type{border-radius:0 0 8px 8px}.dropdown_with_confirm__confirm{height:35px;aspect-ratio:1;padding:11px;background:#000;border-radius:100%;cursor:pointer;display:flex;align-items:center;justify-content:center;border:2px solid rgba(0,0,0,0)}.dropdown_with_confirm__confirm__icon{color:#fff}.dropdown_with_confirm__cancel{height:35px;aspect-ratio:1;padding:11px;border:2px solid #f0f0f0;border-radius:100%;cursor:pointer;display:flex;align-items:center;justify-content:center}`, ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -599,29 +599,6 @@ ___CSS_LOADER_EXPORT___.push([module.id, `.tag_website{width:328px;margin-bottom
 
 /***/ }),
 
-/***/ 5680:
-/***/ ((module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   c: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5500);
-/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2312);
-/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
-// Imports
-
-
-var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
-// Module
-___CSS_LOADER_EXPORT___.push([module.id, `.toggle_button{display:flex}.toggle_button:last-of-type{margin-bottom:24px}.toggle_button__enable{width:70%;display:flex;justify-content:flex-start;align-items:center}.toggle_button__enable_button{width:30%;display:flex;justify-content:flex-end}.toggle_button__enable_button__container{display:inline-block;cursor:pointer}.toggle_button__enable_button__container__switch{position:relative;width:57px;height:28px;border-radius:28px;display:flex;align-items:center;background:#f4f4f4}.toggle_button__enable_button__container__switch__circle{aspect-ratio:1;width:16px;border-radius:100%;position:absolute;transition:transform .3s;margin-left:5px;background:#000}.toggle_button__enable_button__container__switch__circle.on{background:var(--blue);transform:translateX(28px)}`, ""]);
-// Exports
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
-
-
-/***/ }),
-
 /***/ 652:
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
@@ -639,6 +616,29 @@ ___CSS_LOADER_EXPORT___.push([module.id, `.toggle_button{display:flex}.toggle_bu
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
 // Module
 ___CSS_LOADER_EXPORT___.push([module.id, `.toggle_button{display:flex}.toggle_button:last-of-type{margin-bottom:24px}.toggle_button__enable{width:70%;display:flex;justify-content:flex-start;align-items:center;gap:.5rem}.toggle_button__enable_button{width:30%;display:flex;justify-content:flex-end}.toggle_button__enable_button__container{display:inline-block;cursor:pointer}.toggle_button__enable_button__container__switch{position:relative;width:57px;height:28px;border-radius:28px;display:flex;align-items:center;background:#f4f4f4}.toggle_button__enable_button__container__switch__circle{aspect-ratio:1;width:16px;border-radius:100%;position:absolute;transition:transform .3s;margin-left:5px;background:#000}.toggle_button__enable_button__container__switch__circle.on{background:var(--blue);transform:translateX(28px)}`, ""]);
+// Exports
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ 5680:
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   c: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5500);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2312);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
+// Imports
+
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
+// Module
+___CSS_LOADER_EXPORT___.push([module.id, `.toggle_button{display:flex}.toggle_button:last-of-type{margin-bottom:24px}.toggle_button__enable{width:70%;display:flex;justify-content:flex-start;align-items:center}.toggle_button__enable_button{width:30%;display:flex;justify-content:flex-end}.toggle_button__enable_button__container{display:inline-block;cursor:pointer}.toggle_button__enable_button__container__switch{position:relative;width:57px;height:28px;border-radius:28px;display:flex;align-items:center;background:#f4f4f4}.toggle_button__enable_button__container__switch__circle{aspect-ratio:1;width:16px;border-radius:100%;position:absolute;transition:transform .3s;margin-left:5px;background:#000}.toggle_button__enable_button__container__switch__circle.on{background:var(--blue);transform:translateX(28px)}`, ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -23981,7 +23981,7 @@ function UntaggedWebsiteList_UntaggedWebsiteList_UntaggedWebsiteList() {
                             } }) }))] }), index));
         });
     };
-    return ((0,jsx_runtime.jsxs)("div", Object.assign({ className: "untagged_website_list" }, { children: [(0,jsx_runtime.jsxs)("div", Object.assign({ className: "untagged_website_list__header" }, { children: ["Untagged Sites", " ", (0,jsx_runtime.jsx)(CiCircleInfo, { "data-tooltip-id": "untagged-list-tooltip", "data-tooltip-content": "Untagged websites are not\r\n          yet untagged by GPT, users can \r\n          tag them manually.", "data-tooltip-place": "bottom", className: "info-icon" }), (0,jsx_runtime.jsx)(H, { id: "untagged-list-tooltip", className: "tooltip" })] })), (0,jsx_runtime.jsx)("div", Object.assign({ className: "untagged_website_list__outline" }, { children: (0,jsx_runtime.jsx)("div", Object.assign({ className: "untagged_website_list__content" }, { children: untaggedWebsites.length ? displayWebsites() : "No untagged websites" })) }))] })));
+    return ((0,jsx_runtime.jsxs)("div", Object.assign({ className: "untagged_website_list" }, { children: [(0,jsx_runtime.jsxs)("div", Object.assign({ className: "untagged_website_list__header" }, { children: ["Untagged Sites", " ", (0,jsx_runtime.jsx)(CiCircleInfo, { "data-tooltip-id": "untagged-list-tooltip", "data-tooltip-content": "Untagged websites are not\n          yet untagged by GPT, users can \n          tag them manually.", "data-tooltip-place": "bottom", className: "info-icon" }), (0,jsx_runtime.jsx)(H, { id: "untagged-list-tooltip", className: "tooltip" })] })), (0,jsx_runtime.jsx)("div", Object.assign({ className: "untagged_website_list__outline" }, { children: (0,jsx_runtime.jsx)("div", Object.assign({ className: "untagged_website_list__content" }, { children: untaggedWebsites.length ? displayWebsites() : "No untagged websites" })) }))] })));
 }
 
 // EXTERNAL MODULE: ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/WebsiteList/WebsiteList.scss
@@ -25670,7 +25670,7 @@ function AuthKeyBox_AuthKeyBox_AuthKeyBox() {
     const handleShowAuthKey = () => {
         setShowAuthKey((prev) => !prev);
     };
-    return ((0,jsx_runtime.jsxs)("div", Object.assign({ className: "auth_key_box" }, { children: [(0,jsx_runtime.jsxs)("div", Object.assign({ className: "auth_key_box__header" }, { children: ["GPT API Key", " ", (0,jsx_runtime.jsx)(CiCircleInfo, { "data-tooltip-id": "auth-tooltip", "data-tooltip-content": "For users who own GPT keys, \r\n          you can run Recenter\r\n          with your own key.", "data-tooltip-place": "bottom", className: "info-icon" }), (0,jsx_runtime.jsx)(H, { id: "auth-tooltip", className: "tooltip" })] })), (0,jsx_runtime.jsxs)("div", Object.assign({ className: "auth_key_box__outline" }, { children: [(0,jsx_runtime.jsxs)("div", Object.assign({ className: "auth_key_box__content" }, { children: [(0,jsx_runtime.jsx)("div", Object.assign({ className: "auth_key_box__content__input" }, { children: (0,jsx_runtime.jsx)(components_Input_Input, { input: authKey, placeholder: "Enter Your Chatgpt API Key", setInput: setAuthKey, type: showAuthKey ? "text" : "password", label: "ChatGPT API Key" }) })), (0,jsx_runtime.jsx)("div", Object.assign({ className: "auth_key_box__content__show" }, { children: (0,jsx_runtime.jsx)("div", Object.assign({ className: "auth_key_box__content__show__eye", onClick: handleShowAuthKey }, { children: showAuthKey ? (0,jsx_runtime.jsx)(FaEyeSlash, {}) : (0,jsx_runtime.jsx)(FaEye, {}) })) }))] })), (0,jsx_runtime.jsx)("div", Object.assign({ className: "auth_key_box__button" }, { children: (0,jsx_runtime.jsx)(Button_Button_Button, { text: "Authenticate", onClick: handleAddAuthKey }) }))] }))] })));
+    return ((0,jsx_runtime.jsxs)("div", Object.assign({ className: "auth_key_box" }, { children: [(0,jsx_runtime.jsxs)("div", Object.assign({ className: "auth_key_box__header" }, { children: ["GPT API Key", " ", (0,jsx_runtime.jsx)(CiCircleInfo, { "data-tooltip-id": "auth-tooltip", "data-tooltip-content": "For users who own GPT keys, \n          you can run Recenter\n          with your own key.", "data-tooltip-place": "bottom", className: "info-icon" }), (0,jsx_runtime.jsx)(H, { id: "auth-tooltip", className: "tooltip" })] })), (0,jsx_runtime.jsxs)("div", Object.assign({ className: "auth_key_box__outline" }, { children: [(0,jsx_runtime.jsxs)("div", Object.assign({ className: "auth_key_box__content" }, { children: [(0,jsx_runtime.jsx)("div", Object.assign({ className: "auth_key_box__content__input" }, { children: (0,jsx_runtime.jsx)(components_Input_Input, { input: authKey, placeholder: "Enter Your Chatgpt API Key", setInput: setAuthKey, type: showAuthKey ? "text" : "password", label: "ChatGPT API Key" }) })), (0,jsx_runtime.jsx)("div", Object.assign({ className: "auth_key_box__content__show" }, { children: (0,jsx_runtime.jsx)("div", Object.assign({ className: "auth_key_box__content__show__eye", onClick: handleShowAuthKey }, { children: showAuthKey ? (0,jsx_runtime.jsx)(FaEyeSlash, {}) : (0,jsx_runtime.jsx)(FaEye, {}) })) }))] })), (0,jsx_runtime.jsx)("div", Object.assign({ className: "auth_key_box__button" }, { children: (0,jsx_runtime.jsx)(Button_Button_Button, { text: "Authenticate", onClick: handleAddAuthKey }) }))] }))] })));
 }
 
 // EXTERNAL MODULE: ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/AlertTimerBox/AlertTimerBox.scss
@@ -26084,7 +26084,7 @@ const MaxTimerBox_MaxTimerBox_MaxTimerBox = () => {
             setMaxTime("");
         }
     });
-    return ((0,jsx_runtime.jsxs)("div", Object.assign({ className: "max_timer_box" }, { children: [(0,jsx_runtime.jsxs)("div", Object.assign({ className: "max_timer_box__header" }, { children: ["Site Usage Limit", " ", (0,jsx_runtime.jsx)(CiCircleInfo, { "data-tooltip-id": "max-time-list-tooltip", "data-tooltip-content": "For Websites tagged as 'Wasteful', \r\n          you can limit usage per day. \r\n          Default is 20mins per day", "data-tooltip-place": "bottom", className: "info-icon" }), (0,jsx_runtime.jsx)(H, { id: "max-time-list-tooltip", className: "tooltip" })] })), (0,jsx_runtime.jsxs)("div", Object.assign({ className: "max_timer_box__outline" }, { children: [(0,jsx_runtime.jsxs)("div", Object.assign({ className: "max_timer_box__content" }, { children: [(0,jsx_runtime.jsx)("div", Object.assign({ className: "max_timer_box__content__input" }, { children: (0,jsx_runtime.jsx)(components_Input_Input, { label: "Usage per day (in minutes)", input: maxTime, placeholder: "Enter max time (in minutes)", setInput: (time) => {
+    return ((0,jsx_runtime.jsxs)("div", Object.assign({ className: "max_timer_box" }, { children: [(0,jsx_runtime.jsxs)("div", Object.assign({ className: "max_timer_box__header" }, { children: ["Site Usage Limit", " ", (0,jsx_runtime.jsx)(CiCircleInfo, { "data-tooltip-id": "max-time-list-tooltip", "data-tooltip-content": "For Websites tagged as 'Wasteful', \n          you can limit usage per day. \n          Default is 20mins per day", "data-tooltip-place": "bottom", className: "info-icon" }), (0,jsx_runtime.jsx)(H, { id: "max-time-list-tooltip", className: "tooltip" })] })), (0,jsx_runtime.jsxs)("div", Object.assign({ className: "max_timer_box__outline" }, { children: [(0,jsx_runtime.jsxs)("div", Object.assign({ className: "max_timer_box__content" }, { children: [(0,jsx_runtime.jsx)("div", Object.assign({ className: "max_timer_box__content__input" }, { children: (0,jsx_runtime.jsx)(components_Input_Input, { label: "Usage per day (in minutes)", input: maxTime, placeholder: "Enter max time (in minutes)", setInput: (time) => {
                                         setMaxTime(time);
                                     }, type: "text" }) })), (0,jsx_runtime.jsx)("div", Object.assign({ className: "max_timer_box__content__dropdown" }, { children: (0,jsx_runtime.jsx)(Dropdown_Dropdown_Dropdown, { dropdownOptions: dropdownOptions, activeOption: activeOption, setActiveOption: handleActiveOption }) }))] })), activeOption.id === "5" && ((0,jsx_runtime.jsxs)("div", Object.assign({ className: "max_timer_box__select_website" }, { children: [(0,jsx_runtime.jsx)("div", Object.assign({ className: "max_timer_box__select_website__header" }, { children: "Select Websites" })), (0,jsx_runtime.jsx)("div", Object.assign({ className: "max_timer_box__select_website__websites" }, { children: (0,jsx_runtime.jsx)("div", Object.assign({ className: "max_timer_box__select_website__websites__list" }, { children: websites.map((site, index) => {
                                         const website = preprocessURL(site);
@@ -146251,7 +146251,14 @@ function App_App() {
     function handleHelpClick() {
         chrome.tabs.create({ url: "https://recenter.netlify.app/docs" });
     }
-    return ((0,jsx_runtime.jsxs)("div", Object.assign({ className: "app", id: isFocused ? "good" : "bad" }, { children: [(0,jsx_runtime.jsx)("div", { className: "app__top_bar", id: isFocused ? "good" : "bad" }), (0,jsx_runtime.jsxs)(Routes, { children: [(0,jsx_runtime.jsx)(Route, { path: "/", element: (0,jsx_runtime.jsx)(Home_Home, { isFocused: isFocused, setIsFocused: setIsFocused }) }), (0,jsx_runtime.jsx)(Route, { path: "/home", element: (0,jsx_runtime.jsx)(Home_Home, { isFocused: isFocused, setIsFocused: setIsFocused }) }), (0,jsx_runtime.jsx)(Route, { path: "/configure", element: (0,jsx_runtime.jsx)(Configure_Configure, { isFocused: isFocused }) }), (0,jsx_runtime.jsx)(Route, { path: "/profile", element: (0,jsx_runtime.jsx)(Profile_Profile, { isFocused: isFocused }) })] }), (0,jsx_runtime.jsx)("div", Object.assign({ className: "app__help_button", onClick: handleHelpClick }, { children: "?" }))] })));
+    return ((0,jsx_runtime.jsxs)("div", Object.assign({ className: "app", id: isFocused ? "good" : "bad" }, { children: [(0,jsx_runtime.jsx)("div", { className: "app__top_bar", id: isFocused ? "good" : "bad" }), (0,jsx_runtime.jsxs)(Routes, { children: [(0,jsx_runtime.jsx)(Route, { path: "/", element: (0,jsx_runtime.jsx)(Home_Home, { isFocused: isFocused, setIsFocused: setIsFocused }) }), (0,jsx_runtime.jsx)(Route, { path: "/home", element: (0,jsx_runtime.jsx)(Home_Home, { isFocused: isFocused, setIsFocused: setIsFocused }) }), (0,jsx_runtime.jsx)(Route, { path: "/configure", element: (0,jsx_runtime.jsx)(Configure_Configure, { isFocused: isFocused }) }), (0,jsx_runtime.jsx)(Route, { path: "/profile", element: (0,jsx_runtime.jsx)(Profile_Profile, { isFocused: isFocused }) })] }), (0,jsx_runtime.jsx)("div", Object.assign({ className: "app__help_button", onClick: handleHelpClick }, { children: "?" })), (0,jsx_runtime.jsxs)("div", Object.assign({ style: {
+                    padding: '1rem',
+                    backgroundColor: '#f0f8ff',
+                    borderRadius: '12px',
+                    marginTop: '10px',
+                    color: '#333',
+                    fontSize: '14px'
+                } }, { children: [(0,jsx_runtime.jsx)("h3", Object.assign({ style: { marginBottom: '0.5rem' } }, { children: " Daily Reset Summary" })), (0,jsx_runtime.jsxs)("p", { children: ["Take a moment to reflect. You opened ", (0,jsx_runtime.jsx)("strong", { children: window.location.hostname }), " and spent a productive day!"] })] }))] })));
 }
 /* harmony default export */ const src_App_0 = (App_App);
 
